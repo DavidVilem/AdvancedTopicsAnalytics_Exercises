@@ -10,4 +10,6 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | :----| :----| :------------- | :------------- | 
 | February 24th | February 25 |  En NLP el proceso de convertir nuestras secuencias de caracteres, palabras o párrafos en inputs para la computadora se llama **tokenización**. Se puede pensar al token como la unidad para procesamiento semántico. | [L1 - Tokenization](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/L1-Tokenization.ipynb)| 
 | February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E1 - SentimentPrediction](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
+| March 2nd | March 4 |  Analisis de las tareas de los estudiantes.  | [E2-HomeworksAnalysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E2_HomeworksAnalysis.ipynb)| 
+
 

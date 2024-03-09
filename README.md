@@ -14,9 +14,10 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 
  ### Calendario proyectos
 
-  Date | Date Resolve         | Description          | NoteBook |
+  Date Resolve | Roc Auc         | Description          | NoteBook |
 | :----| :----| :------------- | :------------- | 
-| March 15th | N/N |  Classify a movie genre based on its plot. | [P1-MovieGenrePrediction](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.8733 |  Classify a movie genre based on its plot. | [P1-MovieGenrePrediction_0.8733](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Random_Forest_P1_MovieGenrePrediction_0.8733.ipynb)| 
+| March 08th | 0.8637 |  Classify a movie genre based on its plot. | [P1-MovieGenrePrediction_0.8637](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/sentiment_polarity_P1_MovieGenrePrediction_0.8637.ipynb)| 
 
 
 

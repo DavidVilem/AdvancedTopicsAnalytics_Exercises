@@ -17,6 +17,7 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
   Date Resolve | ROC Auc micro  | ROC Auc Macro       | Description          | NoteBook |
 | :----| :----| :----| :------------- | :------------- | 
 | March 08th | 0.88 | 0.92 | Classify a movie genre based on its plot. | [P1-RNN_GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_GRU.ipynb)| 
+| March 08th | 0.90 | 0.76 | Classify a movie genre based on its plot. | [P1-_RNN1D](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
 
 
 

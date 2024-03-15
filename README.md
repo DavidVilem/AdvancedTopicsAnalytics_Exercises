@@ -15,7 +15,7 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
  ### Calendario proyectos
 
   Date Resolve | ROC Auc micro  | ROC Auc Macro       | Description          | NoteBook |
-| :----| :----| :------------- | :------------- | 
+| :----| :----| :----| :------------- | :------------- | 
 | March 08th | 0.88 | 0.92 | Classify a movie genre based on its plot. | [P1-Random_Forest_MovieGenrePrediction](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_GRU.ipynb)| 
 
 

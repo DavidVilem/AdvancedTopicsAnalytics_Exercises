@@ -17,8 +17,10 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
   Date Resolve | ROC Auc micro  | ROC Auc Macro       | Description          | NoteBook |
 | :----| :----| :----| :------------- | :------------- | 
 | March 08th | 0.92 | 0.88 | Classify a movie genre based on its plot. | [P1-RNN_GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_GRU.ipynb)| 
-| March 08th | 0.90 | 0.87 | Classify a movie genre based on its plot. | [P1-_Random_Forest](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.90 | 0.87 | Classify a movie genre based on its plot. | [P1-_Random_Forest](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_Random_Forest_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.85 | 0.86 | Classify a movie genre based on its plot. | [P1-_Sentiment_polarity](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/sentiment_polarity_P1_MovieGenrePrediction.ipynb)| 
 | March 08th | 0.90 | 0.76 | Classify a movie genre based on its plot. | [P1-_RNN1D](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.84 | 0.73 | Classify a movie genre based on its plot. | [P1-_XGBClassifier](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/XGBClassifier_P1_MovieGenrePrediction.ipynb)| 
 
 
 

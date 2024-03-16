@@ -12,7 +12,7 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E2 - Sentiment Analysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
 | March 2nd | March 4 |  Analisis de las tareas de los estudiantes.  | [E2-HomeworksAnalysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E2_HomeworksAnalysis.ipynb)| 
 
- ### P1-MovieGenrePrediction.ipynb
+ ### Proyecto Movie Genre Prediction
 
   Date Resolve | ROC Auc micro  | ROC Auc Macro       | Description          | NoteBook |
 | :----| :----| :----| :------------- | :------------- | 

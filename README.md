@@ -23,6 +23,11 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | March 08th | 0.84 | 0.73 | El XGBClassifier es una implementación del algoritmo de Gradient Boosting diseñada para aumentar la velocidad y la eficiencia, parte de la biblioteca XGBoost, y se utiliza para tareas de clasificación. | [P1-_XGBClassifier](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/XGBClassifier_P1_MovieGenrePrediction.ipynb)| 
 
 
+### Informes
+| Date |  Description          | NoteBook |
+| :----| :------------- | :------------- | 
+| March 15th | Informe correspondiente al proyecto Movie Genre Prediction | [P1 - Movie Genre Prediction](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Reports/Informe%20Movie%20Genre%20Prediction.pdf)| 
+
 
 
 

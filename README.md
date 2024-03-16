@@ -12,15 +12,15 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E2 - Sentiment Analysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
 | March 2nd | March 4 |  Analisis de las tareas de los estudiantes.  | [E2-HomeworksAnalysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E2_HomeworksAnalysis.ipynb)| 
 
- ### Calendario proyectos
+ ### P1-MovieGenrePrediction.ipynb
 
   Date Resolve | ROC Auc micro  | ROC Auc Macro       | Description          | NoteBook |
 | :----| :----| :----| :------------- | :------------- | 
-| March 08th | 0.92 | 0.88 | Classify a movie genre based on its plot. | [P1-RNN_GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_GRU.ipynb)| 
-| March 08th | 0.90 | 0.87 | Classify a movie genre based on its plot. | [P1-_Random_Forest](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_Random_Forest_P1_MovieGenrePrediction.ipynb)| 
-| March 08th | 0.85 | 0.86 | Classify a movie genre based on its plot. | [P1-_Sentiment_polarity](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/sentiment_polarity_P1_MovieGenrePrediction.ipynb)| 
-| March 08th | 0.90 | 0.76 | Classify a movie genre based on its plot. | [P1-_RNN1D](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
-| March 08th | 0.84 | 0.73 | Classify a movie genre based on its plot. | [P1-_XGBClassifier](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/XGBClassifier_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.92 | 0.88 | Una RNN de tipo GRU, o Unidad Recurrente de Compuerta (Gated Recurrent Unit), es una arquitectura de red neuronal diseñada para modelar secuencias de datos.  | [P1-RNN_GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_GRU.ipynb)| 
+| March 08th | 0.90 | 0.87 | Un modelo Random Forest es un algoritmo de aprendizaje supervisado de ensamble que consiste en una multitud de árboles de decisión.  | [P1-_Random_Forest](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_Random_Forest_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.85 | 0.86 | Una RNN con sentimental polarity es una red neuronal recurrente diseñada para analizar el sentimiento de un texto, clasificándolo generalmente como positivo o negativo. | [P1-_Sentiment_polarity](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/sentiment_polarity_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.90 | 0.76 | Una RNN 1D (una dimensión) es un tipo de red neuronal recurrente que procesa secuencias de datos lineales, como series temporales o texto, a través de sus capas en bucles temporales para capturar dependencias temporales o secuenciales. | [P1-_RNN1D](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
+| March 08th | 0.84 | 0.73 | El XGBClassifier es una implementación del algoritmo de Gradient Boosting diseñada para aumentar la velocidad y la eficiencia, parte de la biblioteca XGBoost, y se utiliza para tareas de clasificación. | [P1-_XGBClassifier](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/XGBClassifier_P1_MovieGenrePrediction.ipynb)| 
 
 
 

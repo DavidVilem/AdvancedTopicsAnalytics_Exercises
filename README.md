@@ -11,6 +11,7 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | February 24th | February 25 |  En NLP el proceso de convertir nuestras secuencias de caracteres, palabras o párrafos en inputs para la computadora se llama **tokenización**. Se puede pensar al token como la unidad para procesamiento semántico. | [E1 - Tokenization](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/L1-Tokenization.ipynb)| 
 | February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E2 - Sentiment Analysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
 | March 2nd | March 4 |  Analisis de las tareas de los estudiantes.  | [E2-HomeworksAnalysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E2_HomeworksAnalysis.ipynb)| 
+| March 9th | March 20 |  En este proyecto, nos propusimos construir y optimizar modelos de redes neuronales recurrentes (RNN) para predecir las calificaciones de películas basadas en sus tramas.   | [E6 - RNN, LSTM, GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E6_RNN_LSTM_GRU.ipynb)| 
 
  ### Proyecto Movie Genre Prediction
 

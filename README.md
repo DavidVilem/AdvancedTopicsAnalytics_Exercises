@@ -9,10 +9,14 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | Date | Date Resolve         | Description          | NoteBook |
 | :----| :----| :------------- | :------------- | 
 | February 24th | February 25 |  En NLP el proceso de convertir nuestras secuencias de caracteres, palabras o párrafos en inputs para la computadora se llama **tokenización**. Se puede pensar al token como la unidad para procesamiento semántico. | [E1 - Tokenization](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/L1-Tokenization.ipynb)| 
-| February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E2 - Sentiment Analysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
+| February 24th | February 25 |  Un trabajo de análisis de sentimiento sobre los problemas de cada una de las principales aerolíneas estadounidenses.  | [E1 - Sentiment Analysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E1-SentimentPrediction.ipynb)| 
 | March 2nd | March 4 |  Analisis de las tareas de los estudiantes.  | [E2-HomeworksAnalysis](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E2_HomeworksAnalysis.ipynb)| 
+| March 2nd | March 22 |  El proyecto se centra en el aprendizaje de representaciones vectoriales (embeddings) de canciones a partir de listas de reproducción creadas por humanos, utilizando la técnica de aprendizaje automático conocida como Word2Vec. | [E3 - Song Embedding Visualization](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E3%20-%20Song%20Embedding%20Visualization.ipynb)| 
 | March 9th | March 20 |  En este proyecto, nos propusimos construir y optimizar modelos de redes neuronales recurrentes (RNN) para predecir las calificaciones de películas basadas en sus tramas.   | [E6 - RNN, LSTM, GRU](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E6_RNN_LSTM_GRU.ipynb)| 
-| March 9th | March 21 |  Este proyecto se centró en generar resúmenes automáticos de textos largos utilizando el modelo BART de Hugging Face   | [E7_TextSummary](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E7_TextSummary.ipynb)| 
+| March 16th | March 21 |  Este proyecto se centró en generar resúmenes automáticos de textos largos utilizando el modelo BART de Hugging Face   | [E7_TextSummary](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E7_TextSummary.ipynb)| 
+| March 16th | March 22 |  El proyecto consiste en desarrollar un modelo de NLP capaz de responder preguntas en español basándose en artículos proporcionados, mejorando la interacción y el acceso a la información para usuarios de habla hispana   | [E8 - Question Answering](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E8%20-%20Question%20Answering.ipynb)| 
+
+
 
  ### Proyecto Movie Genre Prediction
 

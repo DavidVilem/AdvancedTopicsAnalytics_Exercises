@@ -11,6 +11,11 @@ El siguiente repositorio contiene los notebooks de los ejercicios resueltos para
 
 Cada Notebook se encuentra documentado, se dejara un enlace directo para no estar revisando toda la carpeta de "Exercises"
 
+------------------------------------
+<div align="left">
+    <img src="Images/calendario.png" width="50" height="50">
+</div>
+
  ### Calendario Ejercicios
 | Date | Date Resolve         | Description          | NoteBook |
 | :----| :----| :------------- | :------------- | 
@@ -24,7 +29,10 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | March 16th | March 22 |  El proyecto consiste en desarrollar un modelo de NLP capaz de responder preguntas en español basándose en artículos proporcionados, mejorando la interacción y el acceso a la información para usuarios de habla hispana   | [E8 - Question Answering](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E8%20-%20Question%20Answering.ipynb)| 
 | March 16th | March 22 | El propósito de este taller es que usted interactúe con quizás el LLMs (large language model) más popular en la actualidad: ChatGPT. Para eso vamos a hacer uso del API de OpenAI | [E9 - Open AI](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/E9%20-%20Open%20AI.ipynb)| 
 
-
+------------------------------------
+<div align="left">
+    <img src="Images/gestion-de-proyectos.png" width="50" height="50">
+</div>
 
  ### Proyecto Movie Genre Prediction
 
@@ -36,6 +44,10 @@ Cada Notebook se encuentra documentado, se dejara un enlace directo para no esta
 | March 08th | 0.90 | 0.76 | Una RNN 1D (una dimensión) es un tipo de red neuronal recurrente que procesa secuencias de datos lineales, como series temporales o texto, a través de sus capas en bucles temporales para capturar dependencias temporales o secuenciales. | [P1-_RNN1D](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/Proyecto_RNN1D_P1_MovieGenrePrediction.ipynb)| 
 | March 08th | 0.84 | 0.73 | El XGBClassifier es una implementación del algoritmo de Gradient Boosting diseñada para aumentar la velocidad y la eficiencia, parte de la biblioteca XGBoost, y se utiliza para tareas de clasificación. | [P1-_XGBClassifier](https://github.com/DavidVilem/AdvancedTopicsAnalytics_Exercises/blob/main/Exercises/Proyecto_Movie/XGBClassifier_P1_MovieGenrePrediction.ipynb)| 
 
+------------------------------------
+<div align="left">
+    <img src="Images/bolsa.png" width="60" height="60">
+</div>
 
 ### Informes
 | Date |  Description          | NoteBook |
